@@ -1,9 +1,9 @@
-{
-  "name": "ForMyLove",
+。{
+  "name": "ForLiuLiuZhu",
   "version": "0.1.0",
-  "description": "宝贝情人节快乐",
+  "description": "哈哈哈哈",
   "main": "gulpfile.js",
-  "author": "WangJohn",
+  "author": "WilsonHong",
   "license": "MIT",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://liuliuju.github.io"
+    "url": "https://github.com/WilsonHong20/liuliuzhu.github.io"
   },
   "keywords": [
     "gulp",
