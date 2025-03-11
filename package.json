@@ -1,7 +1,7 @@
-。{
-  "name": "ForLiuLiuZhu",
+{
+  "name": "forlixue",
   "version": "0.1.0",
-  "description": "哈哈哈哈",
+  "description": "宝贝儿，我爱你！",
   "main": "gulpfile.js",
   "author": "WilsonHong",
   "license": "MIT",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/WilsonHong20/liuliuzhu.github.io"
+    "url": "https://github.com/WilsonHong20/lixue.github.io"
   },
   "keywords": [
     "gulp",
